@@ -7,6 +7,10 @@ const nextConfig: NextConfig = {
         hostname: "bold-porcupine-632.convex.cloud",
         protocol: "https",
       },
+      {
+        hostname: "amiable-weasel-997.convex.cloud",
+        protocol: "https",
+      },
     ],
   },
 };
